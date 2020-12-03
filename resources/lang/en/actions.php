@@ -1,0 +1,68 @@
+<?php
+
+return [
+    //Generic
+    'save' => 'Save',
+    'save_and_continue' => 'Save & Continue',
+    'create' => 'Create',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'store' => 'Store',
+    'upgrade' => 'Upgrade',
+    'update' => 'Update',
+    'set' => 'Set',
+    'clear' => 'Clear',
+    'reset' => 'Reset',
+    'send' => 'Send',
+    'show' => 'Show',
+    'read' => 'Read',
+    'register' => 'Register',
+    'search' => 'Search',
+    'filter' => 'Filter',
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'copy' => 'Copy',
+    'copied' => 'Copied',
+    'move' => 'move',
+    'moved' => 'Moved',
+    'use' => 'Use',
+    'upload' => 'Upload',
+    'close' => 'Close',
+    'go_back' => 'Go Back',
+    'reorder' => 'Reorder',
+    'add_new_images' => 'Add New Images',
+    'add' => 'Add',
+    'add_translation' => 'Add Translation',
+    'confirm' => 'Confirm',
+    'add_module' => 'Add Module',
+    'preview' => 'Preview',
+
+    'create_entity' => 'Create: :entity',
+    'add_entity' => 'Add :entity',
+    'edit_entity' => 'Edit: :entity',
+    'delete_entity' => 'Delete: :entity',
+    'list_entities' => 'List :entities',
+    'select_entity' => 'Select :entity',
+    'show_entity' => 'Show: :entity',
+    'read_message' => 'Read: :subject',
+
+    'launch_images_browser' => 'Launch Images Browser',
+    'clear_queue' => 'Clear Queue',
+    'toggle_navigation' => 'Toggle Navigation',
+    'send_reminder' => 'Send Reminder',
+    'see_all_logs' => 'See All Logs',
+    'toggle_side_menu' => 'Toggle Side Menu',
+
+    'download_all_images' => 'Download All Images',
+
+
+    //Specific
+    'save_and_new' => 'Save & New',
+    'add_visit' => 'Add Visit',
+    'submit' => 'Submit',
+    'read_report' => 'Read Report: :date',
+    'request_job' => 'Request Job',
+    'download' => 'Download',
+    'select' => 'Select',
+
+];

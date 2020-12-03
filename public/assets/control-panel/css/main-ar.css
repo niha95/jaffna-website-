@@ -1,0 +1,54 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "hacen_tunisiaregular", sans-serif !important;
+}
+
+.panel-heading a.collapsed:after {
+    content: "\e079";
+    color: #FCFFF5;
+    float: left;
+}
+.panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: left;
+    color: #FCFFF5;
+}
+
+.loading_image {
+    margin-right: 0;
+    margin-left: -8px;
+}
+
+#CPLocaleSwitcher {
+    font-family: "Roboto", sans-serif;
+}
+
+#CPLocaleSwitcher span {
+    top: 0;
+}
+
+.cp__locale_selector {
+    position: absolute;
+    top: 0px;
+    right: auto;
+    left: 0;
+}
+
+.loading_image_sm {
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.panel .table.no_center th,
+.panel .table.no_center td {
+    text-align: right;
+}
+
+#ImagesManagerModal #EditCaptionForm #EditCaptionButton {
+    text-align: right;
+}
